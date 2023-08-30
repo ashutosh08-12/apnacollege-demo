@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is first Git Repository.
 <br>
-Author-Ashutosh Sharma
+Author-Ashutosh kaushik
